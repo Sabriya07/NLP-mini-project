@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+bertopic
+nltk
+spacy
+pandas
+pydantic
+httpx
+safetensors
