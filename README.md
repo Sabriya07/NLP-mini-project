@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/cada02da-4345-40fb-8388-e0a467b703b3
+
 # NLP-mini-project
 RecruitSphere (Hiring and Recruitment)
 A smart, AI-powered platform that matches resumes with job descriptions using semantic understanding instead of simple keyword filtering.
